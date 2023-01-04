@@ -14,7 +14,7 @@ The Terraform code in this repo will be responsible for:
 
 ## Consuming
 
-This Terraform code is configured for my TFCB instance and a specific workspace using HCP Vault. This is handled by a seperate workspace and the code to create the HCP Vault instance can be found at [https://github.com/jshively37/terraform-create-hcp-vault](https://github.com/jshively37/terraform-create-hcp-vault)
+This Terraform code is configured for my TFCB instance and a specific workspace using HCP Vault. This is handled in a seperate TFCB workspace, and the code to create the HCP Vault instance can be found at [https://github.com/jshively37/terraform-create-hcp-vault](https://github.com/jshively37/terraform-create-hcp-vault).
 
 To use your own instance please follow the below instructions:
 
